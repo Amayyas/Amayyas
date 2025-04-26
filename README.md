@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **42sh & Tardis**
 
-- 🌱 I’m currently learning **TypeScript, C++, React Native & MySQL**
+- 🌱 I’m currently learning **TypeScript, C++, Node.js, React Native & MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amayyas](https://github.com/Amayyas)
 
