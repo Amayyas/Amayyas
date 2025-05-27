@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amayyas</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Tardis**
+- 🔭 I’m currently working on **CHESS Trainer**
 
 - 🌱 I’m currently learning **TypeScript, C++, Node.js, React Native & MySQL**
 
