@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CHESS Trainer**
 
-- 🌱 I’m currently learning **TypeScript, C++, Node.js, React Native & MySQL**
+- 🌱 I’m currently learning **TypeScript, C++, React Native & Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amayyas](https://github.com/Amayyas)
 
