@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amayyas</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **CHESS Trainer**
+- 🔭 I’m currently working on **Flaire & CHESS Trainer**
 
-- 🌱 I’m currently learning **TypeScript, C++, React Native & Flutter**
+- 🌱 I’m currently learning **TypeScript, C++, React Native, Flutter & Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amayyas](https://github.com/Amayyas)
 
