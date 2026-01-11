@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Flaire**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native, Haskell, C++ & Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amayyas](https://github.com/Amayyas)
 
